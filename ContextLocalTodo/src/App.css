@@ -1,0 +1,10 @@
+.app-container {
+    background-image: url('.https://iconscout.com/illustrations/todo-list'); /* Replace with your image path */
+    background-size: cover; /* Ensure the image covers the entire area */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    min-height: 100vh; /* Ensure it covers the full viewport height */
+    padding: 2rem; /* Add some padding */
+    color: white; /* Ensure text is visible on the background */
+  }
+  
